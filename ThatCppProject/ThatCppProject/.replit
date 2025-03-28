@@ -1,0 +1,2 @@
+run = "g++ .ThatCppProject/MainProject.cpp -o MainProject && ./MainProject"
+language = "cpp"  
